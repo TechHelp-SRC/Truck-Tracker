@@ -1,0 +1,22 @@
+body {
+	
+	font-family: 'Roboto', sans-serif;
+	background-color: #2589BD;
+	
+}
+
+#map {
+    height:100vh;
+    z-index: 2;
+
+}
+
+#data {
+	
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	background-color: aqua;
+	padding: 20px;
+	z-index: 10;
+}
